@@ -1,0 +1,10 @@
+.vs
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+.vscode/.ropeproject
+.vscode/ipch
+vcpkg
+vcpkg-export-*
+build
+!lib/*.lib
+scripts/install.ps1
